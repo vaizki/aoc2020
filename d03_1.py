@@ -1,5 +1,5 @@
 # skip first row
-rows = open('i3.txt').read().strip().split('\n')[1:]
+rows = open('i03.txt').read().strip().split('\n')[1:]
 x = 0
 trees = 0
 for r in rows:

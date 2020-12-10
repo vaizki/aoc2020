@@ -1,5 +1,5 @@
 REQ = ('byr','iyr','eyr','hgt','hcl','ecl','pid')
-pl = [ l.strip() for l in open('i4.txt').read().split('\n\n') ]
+pl = [ l.strip() for l in open('i04.txt').read().split('\n\n') ]
 valid = 0
 
 for pp in pl:

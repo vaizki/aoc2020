@@ -1,5 +1,5 @@
 # skip first row
-rows = open('i3.txt').read().strip().split('\n')[1:]
+rows = open('i03.txt').read().strip().split('\n')[1:]
 tulo = 1
 combos = ((1,1),(3,1),(5,1),(7,1),(1,2))
 for right,down in combos:

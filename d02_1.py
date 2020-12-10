@@ -1,4 +1,4 @@
-l = open('i2.txt').read().strip().split('\n')
+l = open('i02.txt').read().strip().split('\n')
 i = 0
 
 for e in l:

@@ -1,6 +1,6 @@
 import copy
 
-oprog = [ x.split() for x in open('i8.txt').read().strip().split('\n') ]
+oprog = [ x.split() for x in open('i08.txt').read().strip().split('\n') ]
 
 def run(prog):
   ip = 0 

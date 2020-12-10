@@ -19,7 +19,7 @@ VALID = { 'byr': lambda x: (1920 <= int(x) <= 2002),
 	'pid': lambda x: re.match(r'^[0-9]{9}$', x)
 	}
 
-pl = [ l.strip() for l in open('i4.txt').read().split('\n\n') ]
+pl = [ l.strip() for l in open('i04.txt').read().split('\n\n') ]
 valid = 0
 
 for pp in pl:

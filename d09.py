@@ -1,7 +1,7 @@
 import itertools
 
 # part 1
-nl = list(map(int, open('i9.txt').read().strip().split('\n')))
+nl = list(map(int, open('i09.txt').read().strip().split('\n')))
 i = 25
 
 while True:

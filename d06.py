@@ -1,4 +1,4 @@
-grps = [ x.strip() for x in open('i6.txt').read().split('\n\n') ]
+grps = [ x.strip() for x in open('i06.txt').read().split('\n\n') ]
 tot1 = 0
 tot2 = 0
 

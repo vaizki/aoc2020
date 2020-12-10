@@ -1,6 +1,6 @@
 import re
 
-bl = open('i7.txt').read().strip().split('\n')
+bl = open('i07.txt').read().strip().split('\n')
 bags = {}
 goldy = set()
 

@@ -1,4 +1,4 @@
-bl = open('i5.txt').read().strip().split('\n')
+bl = open('i05.txt').read().strip().split('\n')
 max_seat = 0
 occupied = set()
 
